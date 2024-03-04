@@ -1,4 +1,4 @@
-# PCB-Design
+# PCB-Design of a DC Power Meter
 
 This project follows a full development cycle for designing a low cost, portable, PIC18 based DC
 power meter and a full set of firmware and production files. For measurement the
