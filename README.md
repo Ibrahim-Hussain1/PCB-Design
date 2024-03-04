@@ -25,11 +25,7 @@ Schematic on Proteus :
 ![Screenshot (140)](https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/bf361d8f-928e-4771-a3d6-a024b920ff1a)
 
 PCB Design: 
-<img width="283" alt="pcb1" src="https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/5369c9d2-42a8-4f34-aa7c-ec8f62ccf82e">
-
-<img width="268" alt="pcb1 (1)" src="https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/eef1c08a-a06b-44c9-b78c-09f0e5fdf2db">
-
-<img width="366" alt="pcb" src="https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/07e6a156-f996-4686-874a-13bbd42d6be9">
+<img width="283" alt="pcb1" src="https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/5369c9d2-42a8-4f34-aa7c-ec8f62ccf82e"> <img width="268" alt="pcb1 (1)" src="https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/eef1c08a-a06b-44c9-b78c-09f0e5fdf2db"> <img width="366" alt="pcb" src="https://github.com/Ibrahim-Hussain1/PCB-Design/assets/161763368/07e6a156-f996-4686-874a-13bbd42d6be9">
 
 
 
